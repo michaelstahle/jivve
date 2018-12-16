@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "tjConnection";
 $password = "0okm9ijn)OKM";
-$database = "ticketjive";
+$database = "jivve";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $database);
